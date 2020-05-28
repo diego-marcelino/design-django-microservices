@@ -170,3 +170,5 @@ dmypy.json
 
 venv/
 .venv/
+
+.vscode/
